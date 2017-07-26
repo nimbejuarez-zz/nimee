@@ -1,0 +1,2 @@
+# nimee
+learning python
